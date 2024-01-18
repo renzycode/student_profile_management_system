@@ -3,3 +3,7 @@
 # to install requirements
 
 pip install -r requirements.txt
+
+# import database
+
+students.sql
